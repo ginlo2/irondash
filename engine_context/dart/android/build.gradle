@@ -24,7 +24,7 @@ apply plugin: 'com.android.library'
 android {
     namespace = 'dev.irondash.engine_context'
 
-    compileSdk = 36
+    compileSdk = 37
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
